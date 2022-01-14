@@ -48,3 +48,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerDwek&show_icons=true&theme=merko&count_private=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomerDwek&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -1,7 +1,7 @@
 ### Hi there, I'm Tomer 👋
 I'm a Software Developer at Mobile Tornado & Software Engineering student in the last semester of studies.
 
-Feel free to visit [My Portfolio](http://tomerportfolio-env.eba-ymgiddg4.us-east-2.elasticbeanstalk.com/) site
+Feel free to visit [My Portfolio](http://tomerportfolio-env.eba-ymgiddg4.us-east-2.elasticbeanstalk.com/) site ;)
 
 ### Connect With me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

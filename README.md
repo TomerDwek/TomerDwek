@@ -36,8 +36,3 @@ Feel free to visit [My Portfolio](http://tomerportfolio-env.eba-ymgiddg4.us-east
 [instagram]: https://www.instagram.com/tomerdwek/
 [twitter]: https://twitter.com/tomer_dwek
 
-### Profile Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerDwek&show_icons=true&theme=merko&count_private=true)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomerDwek&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
